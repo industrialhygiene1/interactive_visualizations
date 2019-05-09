@@ -24,13 +24,13 @@ Use Plotly.js to build interactive charts for your dashboard.
 - Update all of the plots any time that a new sample is selected.
 - You are welcome to create any layout that you would like for your dashboard. An example dashboard page might look something like the following.
 
-#### Phase - Heroku
+#### Phase 2 - Heroku
 
 Deploy your Flask app to Heroku.
 - You can use the provided sqlite file for the database.
 - Ask your Instructor and TAs for help!
 
-#### Advanced Challenge Assignment (Optional)
+##### Advanced Challenge Assignment (Optional)
 
 The following task is completely optional and is very advanced.
 
@@ -38,7 +38,7 @@ The following task is completely optional and is very advanced.
 - You will need to modify the example gauge code to account for values ranging from 0 - 9.
 - Update the chart whenever a new sample is selected
 
-#### Flask API
+##### Flask API
 
 Use Flask API starter code to serve the data needed for your plots.
 
